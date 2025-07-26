@@ -10,8 +10,8 @@ yet another minimal neovim config .. but this time, it's pretty useful
 - the config you would use for 
     - quickly editing configs .. fast with no bloat
     - learning the structure of a bare-boned tidy config
-    - writing simples notes/markdown
-- lazy as the package manager
+    - writing simple notes/markdown
+- Lazy as the package manager
 - a collection of cool keymaps, options, autocmds, colorschemes from all over the internet
 - teaches some good practices of organizations
-- can easily build up on it .. just clone, edit and voila
+- can easily build up on it .. just clone, edit and VOILA!
