@@ -1,5 +1,4 @@
-if true then return {} end --for turning off files
--- not executed
+-- if true then return {} end --for turning off files .. so the following is not executed
 return {
 	'nvim-lualine/lualine.nvim',
 	dependencies = { 'nvim-tree/nvim-web-devicons' },

@@ -30,5 +30,6 @@ op.timeoutlen = 300 -- not to leave you hanging too much
   --clipboard
 op.clipboard = "unnamedplus" -- use system clipboard instead
 
-  --undofile
+  --undofile, swap
 -- op.undofile = true
+op.swapfile = false
